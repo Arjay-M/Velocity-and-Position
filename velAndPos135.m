@@ -6,10 +6,3 @@ distance = trapz(time,velocity);
  pos = distance +3;
 fprintf("The object travels a distance of %.1fm during the time.\n",distance)
 fprintf("The final position will be %.1fm\n",pos)
-
-
-
-
-
-
-
